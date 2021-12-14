@@ -3,6 +3,7 @@ require_once'connect.php';
 ?>
  <form action="gost2.php" method="GET">
  	Удалить категорию: <input type="text" name="qwerty"><br>
+     <br>
  	<input type="submit" name="submit" value="Удалить"><br>
  </form>
  <?php

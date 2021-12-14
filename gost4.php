@@ -3,6 +3,7 @@ require_once'Connect.php';
 ?>
 <form action="gost4.php" method="GET">
 Фамилия клиента:<input type="text" name="NameAuthor"><br>
+<br>
 <input type="submit" name="submit" value="Поиск"><br>
 </form>
 <?php

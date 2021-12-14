@@ -3,6 +3,7 @@ require_once'connect.php';
 ?>
 <form action="gost3.php" method="GET">
  	Добавить категорию: <input type="text" name="qwerty"><br>
+    <br>
  	<input type="submit" name="submit" value="Добавить"><br>
  </form>
  <?php
